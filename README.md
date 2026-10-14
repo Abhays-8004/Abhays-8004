@@ -34,6 +34,6 @@
 
 <div align="center">
 
-<a href="https://github.com/ABHAYS-8004"><img src="./assets/connect.svg?v=1" alt="Connect: GitHub, projects, email — abhaysonwani83@gmail.com" width="100%"/></a>
+<a href="https://github.com/ABHAYS-8004"><img src="connect.svg?v=1" alt="Connect: GitHub, projects, email — abhaysonwani83@gmail.com" width="100%"/></a>
 
 </div>
