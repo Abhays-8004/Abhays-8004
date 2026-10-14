@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=1" alt="Abhay Sonwani — Software Developer. Open to collabs." width="100%"/>
+<img src=".hero.svg" alt="Abhay Sonwani — Software Developer. Open to collabs." width="100%"/>
 
-<img src="./assets/about-life.svg?v=1" alt="About me: what I build, and hobbies — swimming and badminton" width="100%"/>
+<img src="about-life.svg" alt="About me: what I build, and hobbies — swimming and badminton" width="100%"/>
 
-<img src="./assets/stack.svg?v=1" alt="Tech stack orbiting a glowing core: C++, Python, React, JavaScript, Node.js, MongoDB, SQL" width="100%"/>
+<img src="stack.svg" alt="Tech stack orbiting a glowing core: C++, Python, React, JavaScript, Node.js, MongoDB, SQL" width="100%"/>
 
-<img src="./assets/id-dashboard.svg?v=1" alt="Developer ID badge and GitHub dashboard" width="100%"/>
+<img src=".id-dashboard.svg" alt="Developer ID badge and GitHub dashboard" width="100%"/>
 
 </div>
 
