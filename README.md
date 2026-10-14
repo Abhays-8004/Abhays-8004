@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Abhays-8004/Abhays-8004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/hero.svg?v=1" alt="Abhay Sonwani — Software Developer. Open to collabs." width="100%"/>
 
-Here are some ideas to get you started:
+<img src="./assets/about-life.svg?v=1" alt="About me: what I build, and hobbies — swimming and badminton" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/stack.svg?v=1" alt="Tech stack orbiting a glowing core: C++, Python, React, JavaScript, Node.js, MongoDB, SQL" width="100%"/>
+
+<img src="./assets/id-dashboard.svg?v=1" alt="Developer ID badge and GitHub dashboard" width="100%"/>
+
+</div>
+
+## 🚀 Projects
+
+<!-- TODO: replace these sample rows with your real repositories -->
+
+| Project | What it does | Stack | Link |
+| :-- | :-- | :-- | :-- |
+| **portfolio-site** | Personal portfolio with smooth animations | React · JavaScript | [repo](https://github.com/ABHAYS-8004/portfolio-site) |
+| **mern-chat-app** | Real-time chat with rooms and auth | React · Node.js · MongoDB | [repo](https://github.com/ABHAYS-8004/mern-chat-app) |
+| **algo-playground-cpp** | Data structures & algorithms practice in C++ | C++ | [repo](https://github.com/ABHAYS-8004/algo-playground-cpp) |
+| **py-automation** | Small Python scripts that save time | Python | [repo](https://github.com/ABHAYS-8004/py-automation) |
+| **sql-practice** | Queries and schema design exercises | SQL | [repo](https://github.com/ABHAYS-8004/sql-practice) |
+
+## 🌃 Contribution city
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contribution city, night view" width="100%"/>
+</div>
+
+<sub>Rebuilt every day by [`profile-3d.yml`](.github/workflows/profile-3d.yml) using [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib).</sub>
+
+## 📬 Connect
+
+<div align="center">
+
+<a href="https://github.com/ABHAYS-8004"><img src="./assets/connect.svg?v=1" alt="Connect: GitHub, projects, email — abhaysonwani83@gmail.com" width="100%"/></a>
+
+</div>
